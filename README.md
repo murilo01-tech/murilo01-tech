@@ -1,8 +1,6 @@
 ### Aqui é o Murilo  
 **Meu e-mail é: murilo.01052003@gmail.com**  
 
--*Técnico em Segurança do Trabalho*  
--*Técnico em Mecânica Industrial*  
 -*Técnico em Desenvolvimento de Sistemas (1/3)*  
 -*Superior em Engenharia Mecatrônica (2/5)*  
 
